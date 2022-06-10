@@ -64,7 +64,7 @@ header {
 }
 
 #logo span {
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 #menu {
@@ -100,7 +100,7 @@ header {
     font-family: var(--fnt-secundary);
     font-style: normal;
     font-weight: var(--fnt-medium);
-    font-size: 0.8em;
+    font-size: 1em;
 }
 
 .nav-link:hover {
